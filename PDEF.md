@@ -7,12 +7,12 @@ Advantages: 1. don’t need to use every pixel on the camera to figure out the f
 
 Disadvantage:  Vertical strips mean that cameras can have problems focusing on horizontal lines, so better sensors use cross focus patterns. 
 
-2. Key Feature point tracking
-            Key points:
-                        Harris corner detection
-                        SIFT: scale invariant feature transform
-                        FAST
-            Tracking:
-                        Kanade-Lucas Tracking 
+2. Key Feature point tracking  
+            Key points:  
+                        Harris corner detection  
+                        SIFT: scale invariant feature transform  
+                        FAST  
+            Tracking:  
+                        Kanade-Lucas Tracking   
                         
 
